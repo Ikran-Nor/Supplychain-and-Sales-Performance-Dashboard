@@ -1,104 +1,106 @@
 # 🚚  Supply Chain & Sales Performance Dashboard | Power BI
  ## 📊  Project Overview
- In today’s fast-paced supply chain environment, understanding the full picture of operational efficiency, customer behavior, and product performance is critical to driving growth and profitability. In this end-to-end project, I performed data-transformation, modeling, and visual storytelling using Power BI, Power Query, and DAX to convert raw transactional data into a fully interactive dashboard revealing strategic business insights.
-The project uncovers patterns in shipping performance, regional profitability, product discount strategies, and seasonal sales behavior, empowering stakeholders to make data-driven decisions across operations, sales, and logistics.
+ In today’s fast-paced supply chain environment, understanding the full picture of operational efficiency, customer behavior, and product performance is critical to driving growth and profitability. In this end-to-end project, I performed **data-transformation**, **modeling**, and **visual storytelling** using **Power BI**, **Power Query**, and **DAX** to convert raw transactional data into a fully interactive dashboard revealing strategic business insights.
+The project uncovers patterns in **shipping performance**, **regional profitability**, **product discount strategies**, and **seasonal sales behavior**, empowering stakeholders to make data-driven decisions across operations, sales, and logistics.
 
-## 💼 Business Objectives
-Analyze regional and global revenue, profit, and volume performance.
+## 💼 Project Objectives
+✅ Analyze regional and global revenue, profit, and volume performance.
 
-Evaluate shipping mode efficiency and delivery performance.
+✅ Evaluate shipping mode efficiency and delivery performance.
 
-Identify customer and product segments driving profitability.
+✅ Identify customer and product segments driving profitability.
 
-Assess discount strategy impact on profit margin.
+✅ Assess discount strategy impact on profit margin.
 
-Recommend actionable strategies to optimize operations and sales performance.
+✅ Recommend actionable strategies to optimize operations and sales performance.
 
 ## 🔍 Business Questions Analyzed
 ### 1️⃣ Operational Performance
-Which shipping modes offer the most efficient and timely delivery?
+   •	  Which shipping modes offer the most efficient and timely delivery?
 
-How do delays, early arrivals, and on-time percentages vary across modes?
+   •	  How do delays, early arrivals, and on-time percentages vary across modes?
 
 ### 2️⃣ Sales and Profitability Trends
-Which years, months, and categories contribute most to revenue and profit?
+   •	  Which years, months, and categories contribute most to revenue and profit?
 
-How do discount levels affect profit margins and overall revenue?
+   •	  How do discount levels affect profit margins and overall revenue?
 
 ### 3️⃣ Regional and Segment Analysis
-Which regions and departments are top performers?
+   •	 Which regions and departments are top performers?
 
-Who are the highest-contributing customer types and payment methods?
+   •	  Who are the highest-contributing customer types and payment methods?
 
-## 📉 Problems Identified Based on Analysis
-### 🔴 Shipping Inefficiencies
-High delay rates in First Class (98%) and Second Class (77%) reduce delivery reliability and customer satisfaction.
+## 🧠 Key Insights & Findings  
 
-### 🔴 Regional Disparities
-Africa generates the lowest revenue and profit, despite a higher profit margin, signaling low volume but operational efficiency.
-
-### 🔴 Discount-Driven Revenue Risks
-High discount categories contribute more to revenue and profit, but result in lower profit margins—a red flag for long-term sustainability.
-
-### 🔴 Seasonality Volatility
-July had the highest revenue due to heavy discounting, while August—despite lower revenue—delivered the highest profit margin, proving cost efficiency wins.
-
-### 🔴 Customer Behavior Gaps
-While debit cards dominate payment usage (39.54%), the low usage of cash and transfers suggests untapped flexibility in customer experience.
-
-## 📊 Key Insights & KPIs
-### 📌 Summary Metrics:
-#### Metric	Value
-##### 💰 Total Revenue	$2.80 Million
-##### 📦 Total Cost	$2.45 Million
-##### 📈 Total Profit	$347.5K
-##### 🔢 Quantity Sold	34,000 Units
-##### 📄 Orders	16,000 Orders
-##### 💹 Profit Margin	11.14%
-
+### 📌 Summary Metrics:  
+| 📌 KPI                | 🔢 Value         | 📈 Insight                                               |
+|----------------------|------------------|----------------------------------------------------------|
+| Total Revenue        | $2.80M           | Strong overall sales performance                         |
+| Total Profit         | $347.5K          | Indicates good profitability with room for improvement   |
+| Total Quantity Sold  | 34,000 Units     | High product demand                                      |
+| Total Cost           | $2.45M           | Managed cost base relative to revenue                    |
+| Profit Margin        | 11.14%           | Moderate margin, may benefit from cost optimizations     |
+| Number of Orders     | 16,000 Orders    | Healthy order volume                                     |
+ 
 ### 📦 Operational Insights:
-Standard Class offers the most balanced performance with 38% early arrivals and 21% on-time delivery.
+  •	**Standard Class**: 40.58% delayed, 38.09% early arrivals, 21.34% on-time deliveries (most balanced).   
+  •	**Second Class**: 76.76% delayed, 22.97% on time (high delay rate).    
+  •	**First Class**: 98.45% delayed, 1.34% early arrival (least efficient).    
+  •	**Same Day**: 53.1% delayed, 4.22% early arrivals, 42.69% on-time deliveries (best for urgent shipping).   
 
-Same Day is most reliable for urgent orders, with 43% on-time delivery.
+### 🌍 Regional Insights: Identifying Geographic Opportunities
+  •	**Europe** generates the highest revenue and profit, indicating robust market performance and operational efficiency in the region.   
+  •	In contrast, **Africa** has the lowest revenue and profit, but interestingly, it achieves a higher profit margin (indicating cost-efficient operations).   
+  This suggests potential for revenue growth if market penetration improves.
 
-Second Class and First Class exhibit major delays, at 76% and 98% respectively.
+### 👥 Customer & Payment Behavior:    
+  • **Consumers** represent 53.6% of the customer base and lead in revenue/profit.   
+  • **Debit** cards are the most popular payment method (39.5%).
 
-### 🌍 Regional Performance:
-Europe dominates with the highest revenue, profit, and quantity sold.
+### 📅 Sales & Seasonal Trends:   
+  • **2015** had the best performance in revenue, profit, and volume.   
+  • **2018** recorded the lowest performance across all KPIs.   
+  • **July** saw the highest revenue due to discounting, while **August** delivered the highest profit with lower discount and cost per unit.   
 
-Africa has the lowest revenue but a better profit margin than Europe, highlighting cost-efficiency.
+### 🛒 Product & Category Insights:      
+  • **Fishing** and **Cheats** were the top performing categories while **CDs** and **Toys** were unserpoerforming categories.  
+  • Categories with high discounts boosted revenue but suffered from low profit margins.    
+  • Categories with low discounts had lower sales but significantly higher margins.     
+  • **Fan Shop**, **Apparel** and **Golf** were the top-performing department, while **Book Shop** and **pet shop** had the lowest revenue and profit.
 
-### 👥 Customer & Payment Behavior:
-Consumers represent 53.6% of the customer base and lead in revenue/profit.
+![Suply](https://github.com/user-attachments/assets/ed037da3-3da3-4f2e-b70e-a7646e65bcf8)
 
-Debit cards are the most popular payment method (39.5%).
+### 💡 Recommendations and Business Strategies: 
 
-### 📅 Sales & Seasonal Trends:
-2015 had the best performance in revenue, profit, and volume.
+  ✅ **Optimize Shipping Modes**:
 
-2018 recorded the lowest performance across all KPIs.
+   •	 Focus on Standard Class for balanced performance.
 
-July saw the highest revenue due to discounting, while August delivered the highest profit with lower discount and cost per unit.
+   •	 Improve Second Class delivery times to reduce delays.
 
-### 🛒 Product & Category Insights:
-Categories with high discounts boosted revenue but suffered from low profit margins.
+✅ **Focus on Regional Opportunities**:
 
-Categories with low discounts had lower sales but significantly higher margins.
+   •	  Leverage Europe’s strong performance to explore expansion opportunities.
 
-Fan Shop was the top-performing department, while Book Shop had the lowest revenue.
+   •	  Investigate cost-efficiency strategies in Africa to enhance overall revenue.
 
-### 🎯 Key Takeaways & Recommendations
-✅ Enhance Same Day Delivery: Invest in logistics to boost on-time rates further and make Same Day more scalable.
+✅ **Target Consumers and Preferred Payments**:
 
-✅ Reassess First Class Viability: Consider phasing out or optimizing First Class due to its unsustainable delay rates.
+   •	  Invest in campaigns targeting Consumers, who contribute the most revenue.
 
-✅ Capitalize on Consumer Segment: Develop targeted campaigns and loyalty programs for the dominant consumer segment.
+   •	  Expand payment options to encourage debit transactions, the most profitable method.
 
-✅ Optimize Discount Strategy: Balance high-volume discount tactics with high-margin categories to protect profitability.
+✅ **Refine Discount Strategies**:
 
-✅ Expand Efficient Markets: Leverage insights from Africa’s strong margin performance to scale operations in similar markets.
+   •	 Balance discounts to drive revenue without heavily impacting profit margins.
 
-✅ Explore Payment Flexibility: Consider incentives for underused payment types to diversify cash flow sources.
+   •	  Focus on categories with lower discounts to sustain profitability.
+
+
+
+### 📚 Conclusion 
+This project delivers a comprehensive analysis of supply chain operations and sales performance using a dynamic Power BI dashboard. The dataset was transformed and modeled using **Power Query** and **DAX**, enabling a clear evaluation of shipping modes, regional profitability, customer behavior, and product category trends.    
+Key findings include regional disparities in revenue and profit, shipping mode efficiency, customer segmentation, seasonal sales trends, and product category impact on margins. The dashboard enables stakeholders to monitor business performance, uncover operational bottlenecks, and make data-driven decisions to improve cost efficiency, revenue growth, and customer satisfaction.
 
 
 
