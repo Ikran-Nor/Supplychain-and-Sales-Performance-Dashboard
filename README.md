@@ -16,19 +16,19 @@ The project uncovers patterns in **shipping performance**, **regional profitabil
 
 ## 🔍 Business Questions Analyzed
 ### 1️⃣ Operational Performance
-   •	  Which shipping modes offer the most efficient and timely delivery?
+   *	Which shipping modes offer the most efficient and timely delivery?
 
-   •	  How do delays, early arrivals, and on-time percentages vary across modes?
+   *	How do delays, early arrivals, and on-time percentages vary across modes?
 
 ### 2️⃣ Sales and Profitability Trends
-   •	  Which years, months, and categories contribute most to revenue and profit?
+   *	Which years, months, and categories contribute most to revenue and profit?
 
-   •	  How do discount levels affect profit margins and overall revenue?
+   * How do discount levels affect profit margins and overall revenue?
 
 ### 3️⃣ Regional and Segment Analysis
-   •	 Which regions and departments are top performers?
+   * Which regions and departments are top performers?
 
-   •	  Who are the highest-contributing customer types and payment methods?
+   * Who are the highest-contributing customer types and payment methods?
 
 ## 🧠 Key Insights & Findings  
 
@@ -43,30 +43,30 @@ The project uncovers patterns in **shipping performance**, **regional profitabil
 | Number of Orders     | 16,000 Orders    | Healthy order volume                                     |
  
 ### 📦 Operational Insights:
-  •	**Standard Class**: 40.58% delayed, 38.09% early arrivals, 21.34% on-time deliveries (most balanced).   
-  •	**Second Class**: 76.76% delayed, 22.97% on time (high delay rate).    
-  •	**First Class**: 98.45% delayed, 1.34% early arrival (least efficient).    
-  •	**Same Day**: 53.1% delayed, 4.22% early arrivals, 42.69% on-time deliveries (best for urgent shipping).   
+  *  **Standard Class**: 40.58% delayed, 38.09% early arrivals, 21.34% on-time deliveries (most balanced).   
+  * **Second Class**: 76.76% delayed, 22.97% on time (high delay rate).    
+  * **First Class**: 98.45% delayed, 1.34% early arrival (least efficient).    
+  * **Same Day**: 53.1% delayed, 4.22% early arrivals, 42.69% on-time deliveries (best for urgent shipping).   
 
 ### 🌍 Regional Insights: Identifying Geographic Opportunities
-  •	**Europe** generates the highest revenue and profit, indicating robust market performance and operational efficiency in the region.   
-  •	In contrast, **Africa** has the lowest revenue and profit, but interestingly, it achieves a higher profit margin (indicating cost-efficient operations).   
+  * **Europe** generates the highest revenue and profit, indicating robust market performance and operational efficiency in the region.   
+  * In contrast, **Africa** has the lowest revenue and profit, but interestingly, it achieves a higher profit margin (indicating cost-efficient operations).   
   This suggests potential for revenue growth if market penetration improves.
 
 ### 👥 Customer & Payment Behavior:    
-  • **Consumers** represent 53.6% of the customer base and lead in revenue/profit.   
-  • **Debit** cards are the most popular payment method (39.5%).
+  * **Consumers** represent 53.6% of the customer base and lead in revenue/profit.   
+  * **Debit** cards are the most popular payment method (39.5%).
 
 ### 📅 Sales & Seasonal Trends:   
-  • **2015** had the best performance in revenue, profit, and volume.   
-  • **2018** recorded the lowest performance across all KPIs.   
-  • **July** saw the highest revenue due to discounting, while **August** delivered the highest profit with lower discount and cost per unit.   
+  * **2015** had the best performance in revenue, profit, and volume.   
+  * **2018** recorded the lowest performance across all KPIs.   
+  * **July** saw the highest revenue due to discounting, while **August** delivered the highest profit with lower discount and cost per unit.   
 
 ### 🛒 Product & Category Insights:      
-  • **Fishing** and **Cheats** were the top performing categories while **CDs** and **Toys** were unserpoerforming categories.  
-  • Categories with high discounts boosted revenue but suffered from low profit margins.    
-  • Categories with low discounts had lower sales but significantly higher margins.     
-  • **Fan Shop**, **Apparel** and **Golf** were the top-performing department, while **Book Shop** and **pet shop** had the lowest revenue and profit.
+  * **Fishing** and **Cheats** were the top performing categories while **CDs** and **Toys** were unserpoerforming categories.  
+  * Categories with high discounts boosted revenue but suffered from low profit margins.    
+  * Categories with low discounts had lower sales but significantly higher margins.     
+  * **Fan Shop**, **Apparel** and **Golf** were the top-performing department, while **Book Shop** and **pet shop** had the lowest revenue and profit.
 
 ![Suply](https://github.com/user-attachments/assets/ed037da3-3da3-4f2e-b70e-a7646e65bcf8)
 
@@ -74,27 +74,27 @@ The project uncovers patterns in **shipping performance**, **regional profitabil
 
   ✅ **Optimize Shipping Modes**:
 
-   •	 Focus on Standard Class for balanced performance.
+   * Focus on Standard Class for balanced performance.
 
-   •	 Improve Second Class delivery times to reduce delays.
+   * Improve Second Class delivery times to reduce delays.
 
 ✅ **Focus on Regional Opportunities**:
 
-   •	  Leverage Europe’s strong performance to explore expansion opportunities.
+   *   Leverage Europe’s strong performance to explore expansion opportunities.
 
-   •	  Investigate cost-efficiency strategies in Africa to enhance overall revenue.
+   *   Investigate cost-efficiency strategies in Africa to enhance overall revenue.
 
 ✅ **Target Consumers and Preferred Payments**:
 
-   •	  Invest in campaigns targeting Consumers, who contribute the most revenue.
+   *  Invest in campaigns targeting Consumers, who contribute the most revenue.
 
-   •	  Expand payment options to encourage debit transactions, the most profitable method.
+   *   Expand payment options to encourage debit transactions, the most profitable method.
 
 ✅ **Refine Discount Strategies**:
 
-   •	 Balance discounts to drive revenue without heavily impacting profit margins.
+   *  Balance discounts to drive revenue without heavily impacting profit margins.
 
-   •	  Focus on categories with lower discounts to sustain profitability.
+   * Focus on categories with lower discounts to sustain profitability.
 
 
 
